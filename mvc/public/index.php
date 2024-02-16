@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
+    <center>
     <h1>I LOVE YOU VIRUS </h1>
+</center>
 </body>
 </html>
