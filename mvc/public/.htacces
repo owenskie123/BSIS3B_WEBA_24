@@ -1,4 +1,4 @@
-RewriteEgine on
+RewriteEgine On
 
 Rewritecond %{REQUEST_FILENAME} !-f
 Rewritecond %{REQUEST_FILENAME} !-d
