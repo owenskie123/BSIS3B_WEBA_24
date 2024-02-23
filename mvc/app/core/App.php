@@ -7,7 +7,7 @@ class App
     protected $params = [];
     public function __construct()
     {
-      $this->spliturl();
+      $url = $this->spliturl();
       
       if(isset($url[0])){
         
