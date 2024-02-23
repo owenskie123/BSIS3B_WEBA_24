@@ -42,6 +42,7 @@ class App
 
         
         $url = explode('/', trim($_GET['url'],'/'));
+        
         return $url;
 
         }
