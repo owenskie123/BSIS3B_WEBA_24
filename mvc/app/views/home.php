@@ -1,7 +1,16 @@
-<?php include PATH . "partials/header.php" ?>
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="container mt-5">
-  <h2>Home Page</h2>
-</div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    <?= APP_NAME ?>
+  </title>
+</head>
 
-<?php include PATH . "partials/footer.php" ?>
+<body>
+  <h1>Home Page</h1>
+</body>
+
+</html>
