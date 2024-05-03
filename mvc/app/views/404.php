@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,3 +15,6 @@
 </body>
 
 </html>
+=======
+<h1> Page Not Found</h1>
+>>>>>>> MARK

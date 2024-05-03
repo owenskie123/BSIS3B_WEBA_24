@@ -10,7 +10,16 @@
 </head>
 
 <body>
+<<<<<<< HEAD
   <h1>Home Page</h1>
 </body>
 
 </html>
+=======
+    <h1>Home Page</h1>
+</body>
+</html>
+     
+     
+     
+>>>>>>> MARK

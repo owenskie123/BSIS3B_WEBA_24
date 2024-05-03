@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?php
+=======
+    <?php
+>>>>>>> MARK
 
 require '../app/core/init.php';
 

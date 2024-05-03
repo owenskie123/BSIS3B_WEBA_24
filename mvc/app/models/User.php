@@ -2,5 +2,9 @@
 
 class User extends Model
 {
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> MARK
 }
