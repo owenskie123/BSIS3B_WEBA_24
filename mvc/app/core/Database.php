@@ -4,7 +4,7 @@ class Database
 {
     public function connect()
     {
-        $string = "mysql:host=localhost;dbname=mvc_bsisbc";
+        $string = "mysql:host=localhost;dbname=mvc_bsis3b";
         $con = new PDO($string, 'root', '');
         return $con;
     }
